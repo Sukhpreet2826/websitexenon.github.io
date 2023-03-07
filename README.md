@@ -4,8 +4,6 @@ The landing page is the login page, which is shown as
 
 ![image](https://user-images.githubusercontent.com/54342467/223469005-7fe65cf3-8089-4049-a607-42b85db5237c.png)
 
-*This page is not connected to the Database*
-
 After giving the required information to login, then click on the login button which takes you to the home page of the website as shown:
 
 ![image](https://user-images.githubusercontent.com/54342467/223469696-dca8ed29-5b65-42cb-bb4a-7f9b32aafef7.png)
